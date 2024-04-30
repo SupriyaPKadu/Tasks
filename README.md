@@ -1,3 +1,3 @@
 HTML Basics 
 
-Checked the code for the PR review
+Changed the code for the PR review
